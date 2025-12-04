@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Conda / venv
+env/
+.venv/
+*.sqlite
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
